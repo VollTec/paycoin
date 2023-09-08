@@ -1,3 +1,10 @@
+# Paycoin code respository, copy for protesterity as forked from BTC in 2014 ish by the devs
+# Not my code
+# The Paycoin project in this form no longer exists.
+# Notes added by mystervee - September 2023
+
+
+
 TEMPLATE = app
 TARGET = paycoin
 VERSION = 0.1.2.0
